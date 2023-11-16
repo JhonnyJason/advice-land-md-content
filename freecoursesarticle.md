@@ -2,7 +2,7 @@
 
 ###### Meta Start [
 ###### html-title:
-###### html-desciption:
+###### html-description:
 ###### html-keywords:
 ###### html-locale: de_DE
 ###### page-uri:
